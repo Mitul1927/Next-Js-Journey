@@ -34,7 +34,7 @@ const Sidebar = () => {
         </ul>
 
         <section className="mb-[7rem]">
-          <Link className="text-2xl font-bold" href="/login">
+          <Link className="text-2xl font-bold" href="/games_project_refactor/login">
             Login
           </Link>
         </section>
